@@ -1,7 +1,9 @@
 # VanDenHout24
 Paper Willemijn van den Hout et al. (2024)
 
-De R syntax  dec2023_R_Syntax_each variabele, bevat het pre-proces van de gekregen raw data naar alle variabelen in aparte bestanden (echter dan nog niet gecleand). 
+De R syntax  dec2023_R_Syntax_each variable alone_PREPROCESS.R, bevat het pre-process van de gekregen raw data naar alle variabelen in aparte bestanden (echter zijn de variabelen dan nog niet gecleand). 
+
+De overige syntaxen zijn in SPSS gemaakt
 
 De syntaxen: Syntax_COPD, Syntax_DM1, Syntax_DM2, Syntax_depression, Syntax_diabetes, Syntax_eatingdisorders, Syntax_hypertension, Syntax_obesity, Syntax_overweight bevatten de cleaning van de comorbiditeiten met hun bijbehorende ICPC
 
